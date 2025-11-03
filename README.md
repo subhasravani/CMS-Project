@@ -9,6 +9,8 @@ This project is a Python web application built using Flask. The user can log in 
 
 Or, once the MS Login button is implemented, it will automatically log into the `admin` account.
 
+![app_demo](https://github.com/user-attachments/assets/fa469950-90bb-40fa-8f35-10bd2967bc7a)
+
 ## Project Instructions (For Student)
 
 You are expected to do the following to complete this project:
@@ -32,6 +34,7 @@ You are expected to do the following to complete this project:
 9. Take a screenshot of the Redirect URIs entered for your registered app, related to the MS Login button.
 10. Take a screenshot of your logs (can be from the Log stream in Azure) showing logging from an attempt to sign in with an invalid login, as well as a valid login.
 
+
 ## example_images Folder
 
 This folder contains sample screenshots that students are required to submit in order to prove they completed various tasks throughout the project.
@@ -45,13 +48,9 @@ This folder contains sample screenshots that students are required to submit in 
 3. sql-storage-solution.png is a screenshot showing the created tables and one query of data from the initial scripts.
 4. blob-solution.png is a screenshot showing an example of blob endpoints for where images are sent for storage.
 5. uri-redirects-solution.png is a screenshot of the redirect URIs related to Microsoft authentication.
-6. log-solution.png is a screenshot showing one potential form of logging with an "Invalid login attempt" and "admin logged in successfully", taken from the app's Log stream. You can customize your log messages as you see fit for these situations.
+![article-cms-solution](https://github.com/user-attachments/assets/b12d7698-3cc3-43d3-b24d-35e6c4c155c3)
 
-   <img width="1366" height="768" alt="Screenshot (24)" src="https://github.com/user-attachments/assets/2cece3a0-c1a1-455f-9b4b-1e6a25738d42" />
-
-<img width="1366" height="768" alt="Screenshot (25)" src="https://github.com/user-attachments/assets/c30fe7d9-0e29-4245-9dc3-e5030cf48297" />
-
-<img width="1366" height="768" alt="Screenshot (26)" src="https://github.com/user-attachments/assets/03c4ca58-3a25-433f-9b7a-74b95fc3c6ee" />
+  
 
 ## Dependencies
 
@@ -60,7 +59,11 @@ This folder contains sample screenshots that students are required to submit in 
 3. Python 3.10
 4. Visual Studio 2019 Community Edition (Free)
 5. The latest Azure CLI (helpful; not required - all actions can be done in the portal)
+ <img width="1366" height="768" alt="Screenshot (24)" src="https://github.com/user-attachments/assets/2cece3a0-c1a1-455f-9b4b-1e6a25738d42" />
 
+<img width="1366" height="768" alt="Screenshot (25)" src="https://github.com/user-attachments/assets/c30fe7d9-0e29-4245-9dc3-e5030cf48297" />
+
+<img width="1366" height="768" alt="Screenshot (26)" src="https://github.com/user-attachments/assets/03c4ca58-3a25-433f-9b7a-74b95fc3c6ee" />
 All Python dependencies are stored in the requirements.txt file. To install them, using Visual Studio 2019 Community Edition:
 1. In the Solution Explorer, expand "Python Environments"
 2. Right-click on "Python 3.10 (64-bit) (global default)" and select "Install from requirements.txt"
