@@ -10,7 +10,8 @@ This project is a Python web application built using Flask. The user can log in 
 - Password: pass
 
 Or, once the MS Login button is implemented, it will automatically log into the `admin` account.
-<img width="1191" height="635" alt="image" src="https://github.com/user-attachments/assets/7cf4993f-46a8-4ef1-bebd-e43476d611df" />
+<img width="653" height="377" alt="image" src="https://github.com/user-attachments/assets/5411f24a-573d-4f9f-8b5d-bd43df2f4e06" />
+
 
 
 
@@ -44,7 +45,8 @@ You are expected to do the following to complete this project:
 This folder contains sample screenshots that students are required to submit in order to prove they completed various tasks throughout the project.
 
 1. The file article-cms-solution.png displays a screenshot of the deployed application.
-   
+   <img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/5a2c4ba3-bea5-473f-9fea-4c67ee05a1d5" />
+
 2.resource-group.png is a screenshot from the Azure Portal showing all of the contents of the Resource Group I have created. 
  <img width="1366" height="768" alt="Screenshot (24)" src="https://github.com/user-attachments/assets/2cece3a0-c1a1-455f-9b4b-1e6a25738d42" />
 
