@@ -10,7 +10,8 @@ This project is a Python web application built using Flask. The user can log in 
 - Password: pass
 
 Or, once the MS Login button is implemented, it will automatically log into the `admin` account.
-<img width="1191" height="635" alt="image" src="https://github.com/user-attachments/assets/bbea4cec-b74d-449d-a3ce-cccb87cefcd9" />
+<img width="1191" height="635" alt="image" src="https://github.com/user-attachments/assets/7cf4993f-46a8-4ef1-bebd-e43476d611df" />
+
 
 
 
