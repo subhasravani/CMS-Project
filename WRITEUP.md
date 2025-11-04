@@ -1,7 +1,7 @@
 Write Up
 
 App Deployment Using Microsoft Azure
-1. Introduction
+**1. Introduction **
 
 Cloud computing has become the foundation of modern software deployment, offering scalability, flexibility, and cost efficiency. Microsoft Azure provides various services that enable developers to deploy, manage, and scale applications seamlessly. This report focuses on deploying a web application using Azure’s two main hosting models—Virtual Machines (IaaS) and App Service (PaaS)—and selecting the most suitable option based on performance, cost, and scalability considerations.
 
