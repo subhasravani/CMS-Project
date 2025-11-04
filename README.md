@@ -46,16 +46,23 @@ This folder contains sample screenshots that students are required to submit in 
 1. The file article-cms-solution.png displays a screenshot of the deployed application.
    
 2.resource-group.png is a screenshot from the Azure Portal showing all of the contents of the Resource Group I have created. 
+ <img width="1366" height="768" alt="Screenshot (24)" src="https://github.com/user-attachments/assets/2cece3a0-c1a1-455f-9b4b-1e6a25738d42" />
 
-3. azure-portal-resource-group.png is a screenshot from the Azure Portal showing all of the contents of the Resource Group the student needs to create. The resource group must (at least) contain the following:
-	- Storage Account
-	- SQL Server
-	- SQL Database
-	- Resources related to deploying the app
-4. sql-storage-solution.png is a screenshot showing the created tables and one query of data from the initial scripts.
-5. blob-solution.png is a screenshot showing an example of blob endpoints for where images are sent for storage.
-6. uri-redirects-solution.png is a screenshot of the redirect URIs related to Microsoft authentication.
-![article-cms-solution](https://github.com/user-attachments/assets/b12d7698-3cc3-43d3-b24d-35e6c4c155c3)
+3.sql-database.png shows tables and one query of data
+<img width="1366" height="768" alt="Screenshot (25)" src="https://github.com/user-attachments/assets/c30fe7d9-0e29-4245-9dc3-e5030cf48297" />
+
+3. storage-container.png is a screenshot showing container is created
+<img width="1366" height="768" alt="Screenshot (26)" src="https://github.com/user-attachments/assets/03c4ca58-3a25-433f-9b7a-74b95fc3c6ee" />
+
+4. blob-solution.png is a screenshot showing an  blob endpoints for where images are sent for storage.
+<img width="1365" height="660" alt="image" src="https://github.com/user-attachments/assets/43cac583-96c0-411b-b03f-d57a541f2da9" />
+
+5. uri-redirects-solution.png is a screenshot of the redirect URIs related to Microsoft authentication.
+   <img width="1365" height="660" alt="image" src="https://github.com/user-attachments/assets/bb6db788-c99b-40b7-bd98-3bda15e2c18a" />
+
+6. log-solution.png is a screenshot showing one potential form of logging with an "Invalid login attempt" and "admin logged in successfully", taken from the app's Log stream.
+<img width="1365" height="660" alt="image" src="https://github.com/user-attachments/assets/dfa42f5d-4e41-49c6-88af-9fe4c4221e2b" />
+
 
   
 
