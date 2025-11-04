@@ -2,14 +2,17 @@
 
 This project is a Python web application built using Flask. The user can log in and out and create/edit articles. An article consists of a title, author, and body of text stored in an Azure SQL Server along with an image that is stored in Azure Blob Storage. You will also implement OAuth2 with Sign in with Microsoft using the `msal` library, along with app logging.
 
+![app_demo](https://github.com/user-attachments/assets/fa469950-90bb-40fa-8f35-10bd2967bc7a)
+
 ## Log In Credentials for FlaskWebProject
 
 - Username: admin
 - Password: pass
 
 Or, once the MS Login button is implemented, it will automatically log into the `admin` account.
+<img width="1191" height="635" alt="image" src="https://github.com/user-attachments/assets/bbea4cec-b74d-449d-a3ce-cccb87cefcd9" />
 
-![app_demo](https://github.com/user-attachments/assets/fa469950-90bb-40fa-8f35-10bd2967bc7a)
+
 
 ## Project Instructions (For Student)
 
@@ -39,15 +42,18 @@ You are expected to do the following to complete this project:
 
 This folder contains sample screenshots that students are required to submit in order to prove they completed various tasks throughout the project.
 
-1. article-cms-solution.png is a screenshot from running the FlaskWebProject on Azure and prove that the student was able to create a new entry. The Title, Author, and Body fields must be populated to prove that the data is being retrieved from the Azure SQL Database while the image on the right proves that an image was uploaded and pulled from Azure Blob Storage.
-2. azure-portal-resource-group.png is a screenshot from the Azure Portal showing all of the contents of the Resource Group the student needs to create. The resource group must (at least) contain the following:
+1. The file article-cms-solution.png displays a screenshot of the deployed application.
+   
+2.resource-group.png is a screenshot from the Azure Portal showing all of the contents of the Resource Group I have created. 
+
+3. azure-portal-resource-group.png is a screenshot from the Azure Portal showing all of the contents of the Resource Group the student needs to create. The resource group must (at least) contain the following:
 	- Storage Account
 	- SQL Server
 	- SQL Database
 	- Resources related to deploying the app
-3. sql-storage-solution.png is a screenshot showing the created tables and one query of data from the initial scripts.
-4. blob-solution.png is a screenshot showing an example of blob endpoints for where images are sent for storage.
-5. uri-redirects-solution.png is a screenshot of the redirect URIs related to Microsoft authentication.
+4. sql-storage-solution.png is a screenshot showing the created tables and one query of data from the initial scripts.
+5. blob-solution.png is a screenshot showing an example of blob endpoints for where images are sent for storage.
+6. uri-redirects-solution.png is a screenshot of the redirect URIs related to Microsoft authentication.
 ![article-cms-solution](https://github.com/user-attachments/assets/b12d7698-3cc3-43d3-b24d-35e6c4c155c3)
 
   
